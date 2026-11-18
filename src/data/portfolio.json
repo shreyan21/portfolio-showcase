@@ -1,0 +1,139 @@
+{
+  "profile": {
+    "name": "Utkarsh Singh Rajawat",
+    "headline": "Application Support Engineer | Linux, SQL, REST APIs | AWS, Docker & Git",
+    "location": "Lucknow, India",
+    "summary": "Technical support and backend professional with nearly 2 years of relevant experience troubleshooting Linux-based services, REST APIs, PostgreSQL workflows and automated jobs. I am now turning that operations foundation into hands-on DevOps and cloud engineering proof.",
+    "email": "rajawatshrayansh@gmail.com",
+    "linkedin": "https://linkedin.com/in/utkarsh-singh-rajawat",
+    "github": "https://github.com/shreyan21"
+  },
+  "skills": [
+    {
+      "category": "Cloud",
+      "name": "AWS EC2",
+      "level": "Working knowledge"
+    },
+    {
+      "category": "Cloud",
+      "name": "IAM",
+      "level": "Working knowledge"
+    },
+    {
+      "category": "Cloud",
+      "name": "S3",
+      "level": "Working knowledge"
+    },
+    {
+      "category": "Cloud",
+      "name": "EBS",
+      "level": "Working knowledge"
+    },
+    {
+      "category": "Systems",
+      "name": "Linux / Unix",
+      "level": "Developing"
+    },
+    {
+      "category": "Containers",
+      "name": "Docker",
+      "level": "Hands-on"
+    },
+    {
+      "category": "Version Control",
+      "name": "Git / GitHub",
+      "level": "Hands-on"
+    },
+    {
+      "category": "Backend",
+      "name": "Node.js / Express",
+      "level": "Hands-on"
+    },
+    {
+      "category": "Data",
+      "name": "PostgreSQL / PostGIS",
+      "level": "Hands-on"
+    },
+    {
+      "category": "APIs",
+      "name": "REST / HTTP / JSON",
+      "level": "Hands-on"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Remote Sensing Applications Center, Uttar Pradesh",
+      "role": "Project Scientist",
+      "period": "09/2025 – Present",
+      "location": "Lucknow, India",
+      "bullets": [
+        "Support Linux-based Node.js/Express APIs and PostgreSQL/PostGIS workflows covering 100+ mining-site records.",
+        "Investigate incidents across API, database, background jobs and Linux services using logs, SQL and service checks.",
+        "Trace REST/JSON requests end-to-end, reproduce failures and separate application, data and service issues before escalation."
+      ],
+      "focus": "API & Production Support"
+    },
+    {
+      "company": "Cognizant",
+      "role": "Programmer Analyst Trainee",
+      "period": "10/2022 – 07/2023",
+      "location": "Noida, India",
+      "bullets": [
+        "Completed approximately 9 months of enterprise engineering training in JavaScript, Node.js, PostgreSQL, REST APIs, debugging and Git.",
+        "Built and debugged REST endpoints and payloads using SQL and application analysis."
+      ]
+    },
+    {
+      "company": "Cognizant",
+      "role": "Intern",
+      "period": "02/2022 – 08/2022",
+      "location": "India",
+      "bullets": [
+        "Completed structured training in programming, relational databases and software debugging."
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Docker Basics for DevOps",
+      "issuer": "KodeKloud",
+      "issued": "Sep 2026",
+      "url": "https://coursera.org/account/accomplishments/records/60P4P9ASXO60"
+    },
+    {
+      "title": "Introduction to Information Technology and AWS Cloud",
+      "issuer": "Amazon Web Services · Coursera",
+      "issued": "Aug 2026",
+      "url": "https://coursera.org/account/accomplishments/records/MWKEUNFBC4ZC"
+    },
+    {
+      "title": "Postman API Fundamentals Student Expert",
+      "issuer": "Canvas Credentials",
+      "issued": "Nov 2024",
+      "url": "https://api.badgr.io/public/assertions/nRU5uUNTQhSSXw5dO5Po7w"
+    },
+    {
+      "title": "SQL Intermediate",
+      "issuer": "HackerRank",
+      "issued": "Oct 2024",
+      "url": "https://hackerrank.com/certificates/b6b19083f0a5"
+    },
+    {
+      "title": "AWS CLF-C02 Exam Preparation",
+      "issuer": "Current learning",
+      "status": "In progress"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Business Administration",
+      "school": "NMIMS CDOE",
+      "period": "2026"
+    },
+    {
+      "degree": "BTech · Computer Science & Engineering",
+      "school": "Shri Ramswaroop Memorial University",
+      "period": "2018 – 2022"
+    }
+  ]
+}
